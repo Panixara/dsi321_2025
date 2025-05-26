@@ -166,16 +166,13 @@ python deploy_ml.py    # forecast every hour @ min 27
 │   ├── data.parquet/year=2025/month=5/day=XX/hour=XX/
 │   ├── SCHEMA.md
 │   └── check_data_quality.ipynb
-├── img/
-│   └── dashboard_demo.png
 ├── pipeline/
 │   ├── bangkok_districts.geojson
 │   ├── getdata.py
 │   ├── forecast.py
 │   ├── deploy.py
 │   ├── deploy_ml.py
-│   ├── upload.py
-│   └── savedata.py
+│   └── upload.py
 ├── prefect/
 │   ├── Dockerfile.jupyter
 │   ├── Dockerfile.prefect-worker
@@ -185,9 +182,9 @@ python deploy_ml.py    # forecast every hour @ min 27
 │   ├── .streamlit/config.toml
 │   └── app.py
 ├── .gitignore
-├── LICENSE
 ├── README.md
 └── docker-compose.yml
+└── dashboard_demo.png
 ```
 
 ## 📩 Contact
