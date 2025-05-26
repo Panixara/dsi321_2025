@@ -134,11 +134,9 @@ python deploy_ml.py    # forecast every hour @ min 27
 ```
 
 ## 📊 Dashboard Preview
-<<<<<<< HEAD
 ![Dashboard Demo](dashboard_demo.png)
 =======
 
->>>>>>> 453d7fe2a837a72ba08878fc807f6a88b29af3b7
 ### Components
 
 * Real-time readings by station
