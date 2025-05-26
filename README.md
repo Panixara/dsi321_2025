@@ -1,7 +1,9 @@
 # Bangkok Air Quality Dashboard with Streamlit, Prefect & LakeFS
 
 ## PROJECT DSI321: Near Real-Time Data Pipeline with Visualization
-
+![Created at](https://img.shields.io/github/created-at/chawi177/dsi321_2025)
+![Last Commit](https://img.shields.io/github/last-commit/chawi177/dsi321_2025)
+![Total Commits](https://img.shields.io/github/commit-activity/y/chawi177/dsi321_2025?label=Total%20commits)
 &#x20; &#x20;
 
 ## 🔎 Overview
