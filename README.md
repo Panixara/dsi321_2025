@@ -31,6 +31,17 @@ It features:
 * Hourly scheduled flows using Prefect
 * Data integrity via LakeFS versioning
 
+## 🛠️ Tools & Technologies
+
+Leverages modern open-source tools:
+
+- **Prefect**: Python-based workflow orchestration and scheduling
+- **LakeFS**: Git-like version control system for data lakes
+- **Streamlit**: Framework for creating interactive dashboards in Python
+- **Docker**: Containerization platform to ensure consistent environments
+- **JupyterLab**: Notebook interface for data exploration and testing
+- **ARIMA**: Statistical time-series forecasting model for AQI and PM2.5
+
 ## ⚙️ Tech Stack
 
 | Component        | Tool/Framework         |
